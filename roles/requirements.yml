@@ -1,0 +1,13 @@
+---
+roles:
+  - src: git@github.com:/jalcock501/devbox_role.git
+    scm: git
+    version: "master"
+
+  - src: git@github.com:/vaulttec/ansible-role-zsh.git
+    scm: git
+    version: "master"
+
+  - src: git@github.com:/diodonfrost/ansible-role-p10k
+    scm: git
+    version: "master"
