@@ -2,7 +2,7 @@
 
 Ansible playbook to roll my devboxes in a one-shot
 
-Supported OS: Debian 10
+Supported OS: Debian 11
 
 ## Usage
 
